@@ -1,0 +1,3 @@
+[submodule "lib/plan-app"]
+	path = lib/plan-app
+	url = https://github.com/kunalahuja04/children-2-submod.git
